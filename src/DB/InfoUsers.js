@@ -1,8 +1,8 @@
 export const InfoUser = [
     {
       usuario:{ 
-        nombreUsuario:"Josue Rosalio",
-        about:"Desarrollador web fullstack JavaScrip - Junior",
+        nombreUsuario:"Josue Ismael",
+        about:"Desarrollador web fullstack JavaScrip - Junior 100% autodidacta",
         icon: "https://www.blogartesvisuales.net/wp-content/uploads/2008/07/fotografia-paisaje-01.jpg"
       },
       social:[
