@@ -1,0 +1,18 @@
+.nav{
+    width: calc(90% - 50px);
+    left: 50px;
+    padding: 20px 0px;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}
+
+.nav img {
+    max-width: calc((25% - 80px) /  3);
+    min-width: 35px;
+}
+.nav span{
+    position: relative;
+    font-size: 1.4em;
+    left: 15px;
+}

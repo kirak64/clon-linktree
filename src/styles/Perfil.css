@@ -1,0 +1,15 @@
+.contenedor-perfil{
+    padding: 20px 0px;
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.imagen-perfil {
+    width: 150px;
+    height: 150px;
+    background: #e6e1e1;
+    border-radius: 50%;
+}
